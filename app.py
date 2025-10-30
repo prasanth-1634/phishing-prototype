@@ -63,6 +63,7 @@ if check_button:
 # ------------------------------
 st.write("---")
 st.markdown(
-    "<p style='text-align:center; font-size:14px; color:gray;'>Developed by <b>Your Name</b> | Ideathon 2025 | Using Python + Streamlit</p>",
+    "<p style='text-align:center; font-size:14px; color:gray;'>Developed by <b>J.prasanth</b> | Ideathon 2025 | Using Python + Streamlit</p>",
     unsafe_allow_html=True
+
 )
